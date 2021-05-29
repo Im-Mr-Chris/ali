@@ -1,0 +1,31 @@
+blockchain features:
+
+patient classification
+lab technician
+medical researchers
+patient
+radiologist
+physcian
+
+
+ali is responsible for:
+the patient classification to drug manufacturers
+lifestyle advices to patients
+predicts by analysis to medical researchers
+clinical decision support to physicians
+
+blockchain data:
+validation of test results to lab technicians
+return results to ali
+IPFS hash for images to radiologist
+
+currency transactions
+drug manufacturer to patient
+radiologist delivers MRI images to ali
+
+unstructured data:
+physician to ali
+patient to ali
+
+biological specimen data:
+medical researchers to lab technicians
